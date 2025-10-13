@@ -1,0 +1,3 @@
+[submodule "Repo-2"]
+	path = Repo-2
+	url = https://github.com/mmdd-git/Repo-2.git
